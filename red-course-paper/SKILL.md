@@ -16,7 +16,8 @@ Use this order:
 3. Choose an argument structure from `references/argument-patterns.md`.
 4. Use `references/course-map.md` to match the course's expected angle.
 5. Use `references/style-and-diction.md` only after the argument is clear.
-6. Run the paper through `references/anti-ai-checklist.md` before delivery.
+6. Use `references/negative-prompts.md` to avoid formulaic red-course phrasing, buzzwords, and abrupt metaphors.
+7. Run the paper through `references/anti-ai-checklist.md` before delivery.
 
 ## Evidence And Source Discipline
 
@@ -36,6 +37,9 @@ Keep the tone:
 Avoid:
 
 - "重要意义/深刻启示/时代价值" repeated without concrete argument.
+- High-frequency contrast frames such as "不是……而是……" and "不仅……更是……".
+- Buzzwords such as "闭环", "赋能", "核心", and "锚定" when they do not name a mechanism.
+- Abrupt metaphors such as "牛鼻子" and "硬骨头" in serious theoretical prose.
 - Ending every essay with sudden "新时代青年使命" uplift unless the paper has prepared that move.
 - Copying idioms or ornate replacements mechanically.
 - Turning every concept into a metaphor.
@@ -45,6 +49,7 @@ Avoid:
 - `references/course-map.md`: course-specific topic angles and writing expectations.
 - `references/argument-patterns.md`: argument skeletons and paragraph templates.
 - `references/style-and-diction.md`: extracted diction resources from the user's images, organized by theme with usage cautions.
+- `references/negative-prompts.md`: phrases, sentence frames, buzzwords, metaphors, and pseudo-current writing habits to avoid.
 - `references/anti-ai-checklist.md`: final review checklist for AI smell, red-course cliches, and over-decoration.
 - `references/material-library/mainstream-commentary-source-index.md`: curated official/media commentary sources and representative article cards.
 - `references/material-library/mainstream-commentary-writing-patterns.md`: reusable argument and style patterns distilled from mainstream commentary sources.
