@@ -1,0 +1,4 @@
+interface:
+  display_name: "红课论文"
+  short_description: "红课论文写作、润色、结构强化、资料核查与去 AI 味"
+  default_prompt: "Use $red-course-paper to draft or polish a mainland China university red-course essay with grounded argumentation and restrained style."

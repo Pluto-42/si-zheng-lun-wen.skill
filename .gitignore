@@ -1,0 +1,11 @@
+.DS_Store
+*.docx
+~$*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.log
+__pycache__/
+.venv/
+.env
